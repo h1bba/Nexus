@@ -1,0 +1,24 @@
+{
+  "name": "nexus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h1bba/Nexus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h1bba/Nexus/issues"
+  },
+  "homepage": "https://github.com/h1bba/Nexus#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "liquid-express-views": "^1.0.8"
+  }
+}
